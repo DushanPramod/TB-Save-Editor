@@ -1,0 +1,11 @@
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\bin\Debug\TB Save Editor.exe.config
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\bin\Debug\TB Save Editor.exe
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\bin\Debug\TB Save Editor.pdb
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB Save Editor.csprojAssemblyReference.cache
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB_Save_Editor.Properties.Resources.resources
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB Save Editor.csproj.GenerateResource.cache
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB Save Editor.csproj.CoreCompileInputs.cache
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB Save Editor.exe
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB Save Editor.pdb
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB_Save_Editor.Form1.resources
+C:\Users\dusha\source\repos\TB Save Editor\TB Save Editor\obj\Debug\TB_Save_Editor.RouteGraph.resources
